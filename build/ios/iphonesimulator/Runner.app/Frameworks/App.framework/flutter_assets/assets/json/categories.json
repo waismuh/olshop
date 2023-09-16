@@ -1,0 +1,46 @@
+{
+  "dummy": [
+    {
+      "id" : 1,
+      "image": "assets/icon/clothing.png",
+      "name": "Cloth",
+      "mount": "$270",
+      "rating": "4"
+    },
+    {
+      "id" : 2,
+      "image": "assets/icon/dress.png",
+      "name": "dress",
+      "mount": "$270",
+      "rating": "4"
+    },
+    {
+      "id" : 3,
+      "image": "assets/icon/music.png",
+      "name": "music",
+      "mount": "$270",
+      "rating": "4"
+    },
+    {
+      "id" : 4,
+      "image": "assets/icon/watch.png",
+      "name": "watch",
+      "mount": "$270",
+      "rating": "4"
+    },
+    {
+      "id" : 5,
+      "image": "assets/icon/phone.png",
+      "name": "phone",
+      "mount": "$270",
+      "rating": "4"
+    },
+    {
+      "id" : 6,
+      "image": "assets/icon/laptop.png",
+      "name": "laptop",
+      "mount": "$270",
+      "rating": "4"
+    }
+  ]
+}
